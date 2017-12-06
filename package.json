@@ -1,0 +1,19 @@
+{
+  "name": "angularjswithts",
+  "version": "1.0.0",
+  "description": "AngularJS app with TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manCity11/AngularJSWithTS.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manCity11/AngularJSWithTS/issues"
+  },
+  "homepage": "https://github.com/manCity11/AngularJSWithTS#readme"
+}
